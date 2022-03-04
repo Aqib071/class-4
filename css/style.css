@@ -1,0 +1,25 @@
+.header{background-image:url(../images/mountian.jpg);
+	min-height: 100px;
+
+
+
+}
+
+.container{
+	overflow: hidden;
+}
+.contact{
+	float: left;
+	width: 65%;
+	min-height: 200px;
+	background-color: green;
+}
+.blog{
+	float: right;
+	width: 30%;
+	min-height: 200px;
+	background-color: cyan;
+}
+
+.footer{background-color: black;
+height: 100px;}
